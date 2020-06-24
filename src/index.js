@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Main from './components/main'
+//import Card from './components/card'
 
 ReactDOM.render(
     <Main/>,
